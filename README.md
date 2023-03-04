@@ -1,0 +1,2 @@
+# Tarea7_Tecnicas_Programacion
+Tarea 7 Curso_22_23_Tecnicas
