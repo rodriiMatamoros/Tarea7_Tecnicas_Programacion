@@ -1,9 +1,9 @@
 # Tarea7_Tecnicas_Programacion
 Tarea 7 Curso_22_23_Tecnicas
 
-Mi repositorio es:
+Mi repositorio es: https://github.com/rodriiMatamoros/Tarea7_Tecnicas_Programacion.git
 
-## 1. Los dados
+## 1. Los dados
 Crea una clase modelizando un dado para jugar. Esta clase tiene:
 
 dos atributos de instancia: uno que permite conocer el número de caras que tiene el dado y otro para almacenar la última cara que se extrajo;
